@@ -1,3 +1,4 @@
-hello 
-welcome 
-My name is sara 
+hello.  
+welcome.
+My name is sara.
+I like horror:) 
